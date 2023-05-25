@@ -32,7 +32,7 @@ The datasets are processed from the following sources:
 [Real ORNL Automotive Dynamometer (ROAD) CAN Intrusion Dataset](https://0xsam.com/road/),
 [CAN Dataset for intrusion detection (OTIDS)](https://ocslab.hksecurity.net/Dataset/CAN-intrusion-dataset),
 [Car-Hacking Dataset for the intrusion detection](https://ocslab.hksecurity.net/Datasets/car-hacking-dataset),
-[SynCAN dataset](https://github.com/etas/SynCAN)
+[SynCAN dataset](https://github.com/etas/SynCAN).
 ## License
 This project is licensed under the MIT License.
 ## Contact

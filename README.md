@@ -3,7 +3,7 @@ A Python library for downloading and accessing 6 CAN datasets after preprocessin
 ## Installation
 You can install the library using pip:
 ```c
-pip install Candataloader==1.1.2
+pip install Candataloader==1.1.4
 ```
 Make sure you have Python 3.6 or higher installed.
 ## Usage

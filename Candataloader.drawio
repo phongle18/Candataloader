@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T09:50:34.726Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="lkOIzwuSWjGCnsUPkZJ0" version="21.5.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T09:54:40.723Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="iy_iBcUmPq7_94DCf9Wc" version="21.5.1" type="github">
   <diagram name="Trang-1" id="8WPnezDn6ww9EdxV7W4L">
     <mxGraphModel dx="1434" dy="774" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3000" pageHeight="5000" math="0" shadow="0">
       <root>
@@ -91,7 +91,7 @@
         <mxCell id="tIdSaeZlRLGK4tlZDi9s-25" value="Dataset 6" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
           <mxGeometry x="673" y="368" width="84" height="31" as="geometry" />
         </mxCell>
-        <mxCell id="tIdSaeZlRLGK4tlZDi9s-28" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#B20000;fillColor=#e51400;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.services.online_hosted_services;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="tIdSaeZlRLGK4tlZDi9s-28" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=#9673a6;fillColor=#e1d5e7;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.services.online_hosted_services;" vertex="1" parent="1">
           <mxGeometry x="886" y="269" width="56" height="52" as="geometry" />
         </mxCell>
         <mxCell id="tIdSaeZlRLGK4tlZDi9s-35" value="URL" style="html=1;strokeWidth=1;shadow=0;dashed=0;shape=mxgraph.ios7ui.url;buttonText=;strokeColor2=#222222;fontSize=8;spacingTop=2;align=center;whiteSpace=wrap;rotation=90;" vertex="1" parent="1">
